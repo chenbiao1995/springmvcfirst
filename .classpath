@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-aspects-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-orm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/BaiduNetdiskDownload/spring+mybatis/res/jar包/springmvc独立运行/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/apps/apache-tomcat-8.5.16/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/apps/apache-tomcat-8.5.16/lib/jsp-api.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
